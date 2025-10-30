@@ -36,9 +36,14 @@ O Quiz de Séries é um projeto divertido e interativo feito em PHP, HTML e CSS,
 
 ## 💡 Funcionalidades
 ✅ Função	Descrição
-Perguntas e respostas dinâmicas	Cada rodada traz uma nova pergunta sobre séries populares
+Perguntas e respostas dinâmicas
+
+Cada rodada traz uma nova pergunta sobre séries populares
+
 Sistema de pontuação	Mostra seu desempenho ao final do quiz
+
 Feedback visual	Cores e animações indicam acertos e erros
+
 Design moderno	Interface leve 
 
 
