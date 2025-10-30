@@ -1,4 +1,4 @@
-<!-- Banner --> <p align="center"> <img src="https://i.imgur.com/ft8bJgK.png" alt="Quiz de Séries Banner" width="100%"> </p> <!-- Badges --> <p align="center"> <img src="https://img.shields.io/badge/PHP-8.0-blue?style=for-the-badge&logo=php" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/STATUS-Em%20Desenvolvimento-yellow?style=for-the-badge" /> </p>
+
 ## 🎬 QUIZ DE SÉRIES — Mostre que você é um verdadeiro maratonista!
 
 Se você acha que entende tudo sobre suas séries favoritas… está na hora de provar!
@@ -46,7 +46,7 @@ Design moderno	Interface leve
 
 
 
-<p align="center"> <img src="https://i.imgur.com/H0rQjZo.gif" alt="Demo do Quiz de Séries" width="80%"> </p>
+
 🧱 Estrutura do Projeto
 quiz-series/
 │
