@@ -47,14 +47,7 @@ Design moderno	Interface leve
 
 
 
-## 🧱 Estrutura do Projeto
-quiz-series/
 
- index.php          # Página inicial e lógica principal
- 
- style.css          # Estilos e layout do quiz
- 
- README.md          # Este arquivo incrível 😄
 
 ## 🔮 Melhorias Futuras
 
